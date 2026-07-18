@@ -2,7 +2,7 @@
 
 ## 1.0.1 - 2026-07-18
 
-- 固定 Pandas 2.3.3，规避 Linux CI 中 Streamlit 页面测试触发的 Arrow 字符串段错误。
+- 固定 Pandas 2.3.3 与 PyArrow 21.0.0，规避 Linux CI 中 Streamlit 页面测试触发的 Arrow 段错误。
 
 ## 1.0.0 - 2026-07-18
 
